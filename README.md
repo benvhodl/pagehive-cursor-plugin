@@ -4,7 +4,7 @@
 
 Live pages, run by your agent.
 
-This plugin connects Cursor to [Pagehive](https://pagehive.io). Your agent builds pages, keeps data in tables and publishes sites through 90+ MCP tools. No CLI, no SDK, no local setup.
+This plugin connects Cursor to [Pagehive](https://pagehive.io). Your agent builds pages, keeps data in tables and publishes sites through about 100 MCP tools. No CLI, no SDK, no local setup.
 
 ## What's inside
 - **MCP server** – the remote Pagehive server at `https://pagehive.io/mcp`. You sign in once with OAuth. No keys go in this repo or your config.

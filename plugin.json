@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "pagehive",
   "version": "1.0.0",
-  "description": "Live pages, run by your agent. Your agent builds pages, keeps data in tables and publishes sites through 90+ MCP tools. No CLI, no SDK, no local setup.",
+  "description": "Live pages, run by your agent. Your agent builds pages, keeps data in tables and publishes sites through about 100 MCP tools. No CLI, no SDK, no local setup.",
   "author": {
     "name": "Pagehive",
     "url": "https://pagehive.io"

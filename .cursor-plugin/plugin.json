@@ -1,7 +1,7 @@
 {
   "name": "pagehive",
   "version": "1.0.0",
-  "description": "Live pages, run by your agent. Your agent builds pages, keeps data in tables and publishes sites through 90+ MCP tools. No CLI, no SDK, no local setup. You sign in once with OAuth, and nothing goes live until you say so.",
+  "description": "Live pages, run by your agent. Your agent builds pages, keeps data in tables and publishes sites through about 100 MCP tools. No CLI, no SDK, no local setup. You sign in once with OAuth, and nothing goes live until you say so.",
   "author": {
     "name": "Pagehive"
   },

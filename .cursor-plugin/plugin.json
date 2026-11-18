@@ -1,0 +1,14 @@
+{
+  "name": "pagehive",
+  "version": "1.0.0",
+  "description": "Live pages, run by your agent. Your agent builds pages, keeps data in tables and publishes sites through 90+ MCP tools. No CLI, no SDK, no local setup. You sign in once with OAuth, and nothing goes live until you say so.",
+  "author": {
+    "name": "Pagehive"
+  },
+  "homepage": "https://pagehive.io",
+  "repository": "https://github.com/benvhodl/pagehive-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["pagehive", "mcp", "websites", "hosting", "publishing", "data", "tables", "agents"],
+  "logo": "assets/logo.svg",
+  "skills": "skills/"
+}
